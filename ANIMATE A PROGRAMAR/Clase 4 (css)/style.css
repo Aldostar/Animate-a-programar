@@ -1,0 +1,69 @@
+.dsemana {
+color: purple;
+font-size: 1.3em;
+
+}
+.dhorarioSI{
+    color:rgb(209, 223, 25);
+    font-size: 1em;
+    background-color: rgb(199, 169, 228);
+
+}
+
+.dhorarioNO{
+    color:rgb(199, 169, 228); 
+    font-size: 1em;
+    background-color:rgb(209, 223, 25); 
+
+}
+.titles {
+color: green
+
+
+}
+
+
+.hfondo {
+   
+    background-color: rgb(158, 203, 240);
+    width: 100%;
+    height: 90px;
+
+}
+
+.hfondofoot {
+    background-color: rgb(158, 203, 240);
+    width: 100%;
+    height: 60px;
+    color: rgb(60, 110, 219)
+
+}
+
+/* borde del form */
+.bordform{
+padding: 10px;
+width: 40%;
+border-width: 3px;
+border-color: green;
+border-style: dashed;
+
+
+}
+
+.navegador{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+width: 30%;
+height: 50px;
+display: flex;
+justify-content: space-between;
+list-style: none;
+
+
+}
+.colorcito{
+    color: yellowgreen;
+}
+
+.botonig{
+    width: 20px;
+}
